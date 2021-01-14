@@ -8,3 +8,8 @@ https://usage.tistory.com/
 
 #### 강지훈 ([@KangJiJi](https://github.com/KangJiJi))
 https://github.com/KangJiJi/Study
+
+#### 최진영 ([@joi0104](https://github.com/joi0104))
+
+https://velog.io/@joi0104
+
